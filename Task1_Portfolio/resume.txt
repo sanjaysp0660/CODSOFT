@@ -1,0 +1,25 @@
+Sanjay SP
+B.Tech Computer Science Engineering (AI & DS)
+Chennai, Tamil Nadu
+Email: sanjay@example.com
+Phone: +91 9876543210
+
+Summary:
+A motivated web developer and AI enthusiast building responsive websites, data-driven applications, and internship-ready solutions.
+
+Skills:
+- HTML, CSS, JavaScript
+- Python, Flask
+- Machine Learning, Data Analysis
+- Responsive Design, UI/UX
+- GitHub, VS Code, Power BI
+
+Experience:
+- Built portfolio site with user login, project detail pages, and contact form.
+- Developed predictive models for agriculture and consumer behavior.
+- Optimized web performance and mobile responsiveness.
+
+Education:
+- B.Tech in Computer Science Engineering with specialization in Artificial Intelligence & Data Science
+
+Interested in internship roles that combine web development, AI, and data analytics.
